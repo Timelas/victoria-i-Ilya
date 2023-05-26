@@ -5,7 +5,7 @@ import "./Questions.css";
 
 function Questions() {
   const formRef = useRef(null)
-  const scriptUrl = "https://script.google.com/macros/s/AKfycby_BYT6LzPV3FZHn66CPeQcYu6bE5b3ZBjuvAoU08L_RdiIzQ7viRTg5mtfej77Y_iK/exec"
+  const scriptUrl = "https://script.google.com/macros/s/AKfycbzzN83-B17xvTT4S1CqVjPx-gPmziqB7OJ0Fcol6ZKSDyPBk10KfQaF2pYGvPrDEx-t/exec"
   const [loading, setLoading] = useState(false);
   const [isFormVisible, setisFormVisible] = useState(true);
 
