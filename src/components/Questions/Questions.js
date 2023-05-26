@@ -46,7 +46,7 @@ function Questions() {
                 <span className="question__text-span">Да</span>
               </label>
               <label className="question__label" htmlFor="no-transfer">
-                <input className="question__unvisible" type="radio" name="Трансфер" value="Нужен" id="no-transfer"></input>
+                <input className="question__unvisible" type="radio" name="Трансфер" value="Не нужен" id="no-transfer"></input>
                 <span className="question__visible-radio"></span>
                 <span className="question__text-span">Нет</span>
               </label>
