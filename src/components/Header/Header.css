@@ -17,7 +17,7 @@
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  gap: 250px;
+  gap: 200px;
 }
 
 .header__date {
@@ -59,7 +59,7 @@
   }
 
   .header__desctop {
-    gap: 170px;
+    gap: 120px;
   }
 
   .header__names {
@@ -88,7 +88,7 @@
   }
 
   .header__desctop {
-    gap: 120px;
+    gap: 50px;
   }
 
   .header__text-image {
@@ -106,7 +106,7 @@
   }
 
   .header__desctop {
-    gap: 120px;
+    gap: 60px;
     width: 75%;
   }
 
@@ -149,7 +149,7 @@
   }
 
   .header__desctop {
-    gap: 120px;
+    gap: 60px;
     width: 70%;
   }
 
@@ -173,7 +173,7 @@
   }
 
   .header__desctop {
-    gap: 70px;
+    gap: 40px;
     width: 75%;
   }
 
@@ -183,7 +183,7 @@
   }
   
   .header__text {
-    font-size: 26px;
+    font-size: 22px;
   }
 
   .header__flower {
