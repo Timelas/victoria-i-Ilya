@@ -22,8 +22,8 @@
 
 @media screen and (max-width: 1700px) {
   .details {
-    height: 100vh;
-    padding: 0;
+    height: 100%;
+    padding: 0 0 70px;
   }
 
   .details__header {

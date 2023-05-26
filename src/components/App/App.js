@@ -7,7 +7,6 @@ import Timetable from "../Timetable/Timetable";
 import Dresscode from "../DressCode/Dresscode";
 import Details from "../Details/Details";
 import Timer from "../Timer/Timer";
-import Rsvp from "../RSVP/Rsvp";
 import Questions from "../Questions/Questions"
 import Footer from "../Footer/Footer";
 import './App.css';
@@ -65,11 +64,10 @@ function App() {
         <Timetable />
         <Dresscode />
         <Details />
-        <Rsvp />
-        <Questions />
         <Countdown
           date={"2023-08-23T12:20:00+00:00"}
           renderer={renderer}/>
+        <Questions />
         <Footer />
       </div>
       <BurgerMenu
