@@ -15,7 +15,8 @@
 
 .timer__title {
   font-size: 28px;
-  line-height: 37px;
+  line-height: 28px;
+  margin: 0 0 50px;
 }
 
 .timer__bloks {
@@ -75,7 +76,8 @@ background-color: #535f64;
   
   .timer__title {
     font-size: 24px;
-    line-height: 27px;
+    line-height: 24px;
+    margin: 0 0 40px;
   }
   
   .timer__number {
@@ -95,6 +97,7 @@ background-color: #535f64;
 
   .timer__title {
     font-size: 20px;
+    margin: 0 0 30px;
   }
 
   .timer__text {
@@ -123,7 +126,8 @@ background-color: #535f64;
 
   .timer__title {
     font-size: 18px;
-    line-height: 20px;
+    line-height: 18px;
+    margin: 0 0 20px;
   }
 
   .timer__bloks {
